@@ -1,0 +1,101 @@
+gene,protein_change,cdna_change,clinvar_uid,review_status,cadd_phred,sift_pred,polyphen2_pred,gnomad_exome_af,gnomad_genome_af,score,lean,reasons
+MYBPC3,p.Gln404Pro,c.1211A>C,4759158,"criteria provided, multiple submitters, no conflicts",24.8,D,D,4.52788e-06,,6,Leans pathogenic,CADD 24.8 (high); SIFT: damaging; PolyPhen-2: damaging; Ultra-rare in gnomAD (AF=4.53e-06)
+MYBPC3,p.Gly46Arg,c.136G>C,4756892,"criteria provided, single submitter",20.4,D,D,,,6,Leans pathogenic,CADD 20.4 (high); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+MYBPC3,p.Lys244Asn,c.732G>T,4756881,"criteria provided, single submitter",23.6,D,D,,,6,Leans pathogenic,CADD 23.6 (high); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+MYBPC3,p.Ser250Phe,c.749C>T,4756880,"criteria provided, single submitter",22.7,D,D,,,6,Leans pathogenic,CADD 22.7 (high); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+MYBPC3,p.Tyr1172Asn,c.3514T>A,4885665,no assertion criteria provided,23.4,D,,,,5,Leans pathogenic,CADD 23.4 (high); SIFT: damaging; Absent from gnomAD
+MYBPC3,p.Arg470Pro,c.1409G>C,4874124,"criteria provided, single submitter",25.9,D,,,,5,Leans pathogenic,CADD 25.9 (high); SIFT: damaging; Absent from gnomAD
+MYBPC3,p.Gly951Arg,c.2851G>A,4860514,"criteria provided, single submitter",24.5,D,,,,5,Leans pathogenic,CADD 24.5 (high); SIFT: damaging; Absent from gnomAD
+MYBPC3,p.Glu520Lys,c.1558G>A,4860510,"criteria provided, single submitter",23.7,D,,,,5,Leans pathogenic,CADD 23.7 (high); SIFT: damaging; Absent from gnomAD
+MYBPC3,p.Lys1107Arg,c.3320A>G,4855768,"criteria provided, single submitter",21.3,D,,,,5,Leans pathogenic,CADD 21.3 (high); SIFT: damaging; Absent from gnomAD
+MYBPC3,p.Glu1168Gln,c.3502G>C,4855644,"criteria provided, single submitter",25.2,D,,,,5,Leans pathogenic,CADD 25.2 (high); SIFT: damaging; Absent from gnomAD
+MYBPC3,p.Ala777Thr,c.2329G>A,4848683,"criteria provided, single submitter",22.3,D,,,,5,Leans pathogenic,CADD 22.3 (high); SIFT: damaging; Absent from gnomAD
+MYBPC3,p.Gly291Ala,c.872G>C,4841546,"criteria provided, single submitter",17.98,D,D,,,5,Leans pathogenic,CADD 18.0 (moderate); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+MYBPC3,p.Thr885Pro,c.2653A>C,4839487,"criteria provided, single submitter",23.0,D,,,,5,Leans pathogenic,CADD 23.0 (high); SIFT: damaging; Absent from gnomAD
+MYBPC3,p.Glu446Gly,c.1337A>G,4820428,"criteria provided, single submitter",29.6,D,,,,5,Leans pathogenic,CADD 29.6 (high); SIFT: damaging; Absent from gnomAD
+MYBPC3,p.Ala317Thr,c.949G>A,4772455,"criteria provided, single submitter",20.5,D,B,4.32766e-06,6.5684e-06,5,Leans pathogenic,CADD 20.5 (high); SIFT: damaging; Ultra-rare in gnomAD (AF=6.57e-06)
+MYBPC3,p.Gly596Trp,c.1786G>T,4769496,"criteria provided, single submitter",27.7,D,,,,5,Leans pathogenic,CADD 27.7 (high); SIFT: damaging; Absent from gnomAD
+MYBPC3,p.Gly490Trp,c.1468G>T,4768323,"criteria provided, single submitter",25.5,D,,,,5,Leans pathogenic,CADD 25.5 (high); SIFT: damaging; Absent from gnomAD
+MYBPC3,p.Asp214Gly,c.641A>G,4766331,"criteria provided, single submitter",25.0,T,D,,,5,Leans pathogenic,CADD 25.0 (high); PolyPhen-2: damaging; Absent from gnomAD
+MYBPC3,p.Ile1240Thr,c.3719T>C,4763848,"criteria provided, single submitter",24.8,D,,,,5,Leans pathogenic,CADD 24.8 (high); SIFT: damaging; Absent from gnomAD
+MYBPC3,p.Gly1079Val,c.3236G>T,4759609,"criteria provided, single submitter",24.7,D,,,,5,Leans pathogenic,CADD 24.7 (high); SIFT: damaging; Absent from gnomAD
+MYBPC3,p.Glu828Lys,c.2482G>A,4758969,"criteria provided, single submitter",25.5,D,,,6.56944e-06,5,Leans pathogenic,CADD 25.5 (high); SIFT: damaging; Ultra-rare in gnomAD (AF=6.57e-06)
+MYBPC3,p.Gly1134Cys,c.3400G>T,4758876,"criteria provided, single submitter",22.1,D,,,,5,Leans pathogenic,CADD 22.1 (high); SIFT: damaging; Absent from gnomAD
+MYBPC3,p.Tyr908Ser,c.2723A>C,4758376,"criteria provided, single submitter",24.1,D,,,,5,Leans pathogenic,CADD 24.1 (high); SIFT: damaging; Absent from gnomAD
+MYBPC3,p.Lys685Gln,c.2053A>C,4758135,"criteria provided, single submitter",24.8,D,,,,5,Leans pathogenic,CADD 24.8 (high); SIFT: damaging; Absent from gnomAD
+MYBPC3,p.Glu461Gly,c.1382A>G,4757799,"criteria provided, single submitter",26.3,D,,,,5,Leans pathogenic,CADD 26.3 (high); SIFT: damaging; Absent from gnomAD
+MYBPC3,p.Lys813Arg,c.2438A>G,4757784,"criteria provided, single submitter",24.9,D,,,,5,Leans pathogenic,CADD 24.9 (high); SIFT: damaging; Absent from gnomAD
+MYBPC3,p.Gly164Ser,c.490G>A,4757386,"criteria provided, single submitter",24.7,T,P,,,5,Leans pathogenic,CADD 24.7 (high); PolyPhen-2: damaging; Absent from gnomAD
+MYBPC3,p.Val1145Ala,c.3434T>C,4757355,"criteria provided, single submitter",22.7,D,,,,5,Leans pathogenic,CADD 22.7 (high); SIFT: damaging; Absent from gnomAD
+MYBPC3,p.His978Asp,c.2932C>G,4756828,"criteria provided, single submitter",24.1,D,,,,5,Leans pathogenic,CADD 24.1 (high); SIFT: damaging; Absent from gnomAD
+MYBPC3,p.Ile1160Val,c.3478A>G,4756812,"criteria provided, multiple submitters, no conflicts",21.6,D,,,,5,Leans pathogenic,CADD 21.6 (high); SIFT: damaging; Absent from gnomAD
+MYBPC3,p.Pro1069Leu,c.3206C>T,4756698,"criteria provided, single submitter",26.2,D,,,,5,Leans pathogenic,CADD 26.2 (high); SIFT: damaging; Absent from gnomAD
+MYBPC3,p.Gln76Lys,c.226C>A,4756667,"criteria provided, single submitter",18.59,D,P,,,5,Leans pathogenic,CADD 18.6 (moderate); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+MYBPC3,p.Ser887Cys,c.2660C>G,4756322,"criteria provided, single submitter",25.6,D,,,,5,Leans pathogenic,CADD 25.6 (high); SIFT: damaging; Absent from gnomAD
+MYBPC3,p.Gln969Lys,c.2905C>A,4756140,"criteria provided, single submitter",22.6,D,,,,5,Leans pathogenic,CADD 22.6 (high); SIFT: damaging; Absent from gnomAD
+MYBPC3,p.Asn822Ser,c.2465A>G,4755728,"criteria provided, single submitter",24.7,D,,4.01252e-06,,5,Leans pathogenic,CADD 24.7 (high); SIFT: damaging; Ultra-rare in gnomAD (AF=4.01e-06)
+MYBPC3,p.Ile636Thr,c.1907T>C,4747429,"criteria provided, single submitter",24.4,D,,,,5,Leans pathogenic,CADD 24.4 (high); SIFT: damaging; Absent from gnomAD
+MYBPC3,p.Gly481Glu,c.1442G>A,4746256,"criteria provided, multiple submitters, no conflicts",25.3,D,,4.04423e-06,,5,Leans pathogenic,CADD 25.3 (high); SIFT: damaging; Ultra-rare in gnomAD (AF=4.04e-06)
+MYBPC3,p.Pro1013His,c.3038C>A,4860513,"criteria provided, single submitter",24.0,T,,,,4,Leans pathogenic,CADD 24.0 (high); Absent from gnomAD
+MYBPC3,p.Val681Ala,c.2042T>C,4860509,"criteria provided, single submitter",24.3,T,,,,4,Leans pathogenic,CADD 24.3 (high); Absent from gnomAD
+MYBPC3,p.Val790Ile,c.2368G>A,4860507,"criteria provided, single submitter",22.9,T,,,,4,Leans pathogenic,CADD 22.9 (high); Absent from gnomAD
+MYBPC3,p.Phe247Cys,c.740T>G,4860506,"criteria provided, single submitter",25.8,T,B,4.04348e-06,,4,Leans pathogenic,CADD 25.8 (high); Ultra-rare in gnomAD (AF=4.04e-06)
+MYBPC3,p.Gln791Glu,c.2371C>G,4844342,"criteria provided, single submitter",20.9,T,,,,4,Leans pathogenic,CADD 20.9 (high); Absent from gnomAD
+MYBPC3,p.Ser13Asn,c.38G>A,4839727,"criteria provided, single submitter",21.5,T,B,,,4,Leans pathogenic,CADD 21.5 (high); Absent from gnomAD
+MYBPC3,p.Ala277Gly,c.830C>G,4810566,"criteria provided, single submitter",23.1,T,B,,,4,Leans pathogenic,CADD 23.1 (high); Absent from gnomAD
+MYBPC3,p.Glu1085Val,c.3254A>T,4805955,"criteria provided, single submitter",25.8,T,,,,4,Leans pathogenic,CADD 25.8 (high); Absent from gnomAD
+MYBPC3,p.Gly354Ala,c.1061G>C,4798512,"criteria provided, single submitter",20.4,T,B,8.03245e-06,,4,Leans pathogenic,CADD 20.4 (high); Ultra-rare in gnomAD (AF=8.03e-06)
+MYBPC3,p.Asn782Asp,c.2344A>G,4798266,"criteria provided, single submitter",20.6,T,,,,4,Leans pathogenic,CADD 20.6 (high); Absent from gnomAD
+MYBPC3,p.Ala432Ser,c.1294G>T,4796930,"criteria provided, single submitter",24.3,T,,,,4,Leans pathogenic,CADD 24.3 (high); Absent from gnomAD
+MYBPC3,p.Asn763Thr,c.2288A>C,4779515,"criteria provided, single submitter",23.0,T,,,,4,Leans pathogenic,CADD 23.0 (high); Absent from gnomAD
+MYBPC3,p.Pro132Arg,c.395C>G,4769880,"criteria provided, single submitter",18.49,D,B,,,4,Leans pathogenic,CADD 18.5 (moderate); SIFT: damaging; Absent from gnomAD
+MYBPC3,p.His926Leu,c.2777A>T,4765753,"criteria provided, single submitter",16.32,D,,,,4,Leans pathogenic,CADD 16.3 (moderate); SIFT: damaging; Absent from gnomAD
+MYBPC3,p.Pro859Ser,c.2575C>T,4761136,"criteria provided, single submitter",20.3,T,,,,4,Leans pathogenic,CADD 20.3 (high); Absent from gnomAD
+MYBPC3,p.Pro859Arg,c.2576C>G,4758861,"criteria provided, single submitter",25.2,T,,,,4,Leans pathogenic,CADD 25.2 (high); Absent from gnomAD
+MYBPC3,p.Asp824Ala,c.2471A>C,4758649,"criteria provided, single submitter",26.5,T,,,,4,Leans pathogenic,CADD 26.5 (high); Absent from gnomAD
+MYBPC3,p.Gln761Glu,c.2281C>G,4758132,"criteria provided, single submitter",24.3,T,,,,4,Leans pathogenic,CADD 24.3 (high); Absent from gnomAD
+MYBPC3,p.Gly620Ser,c.1858G>A,4758086,"criteria provided, single submitter",25.6,T,,,,4,Leans pathogenic,CADD 25.6 (high); Absent from gnomAD
+MYBPC3,p.Glu332Asp,c.996G>C,4757803,"criteria provided, single submitter",20.1,T,B,,,4,Leans pathogenic,CADD 20.1 (high); Absent from gnomAD
+MYBPC3,p.Gly1134Asp,c.3401G>A,4757682,"criteria provided, single submitter",23.2,T,,,,4,Leans pathogenic,CADD 23.2 (high); Absent from gnomAD
+MYBPC3,p.Val987Ala,c.2960T>C,4757661,"criteria provided, single submitter",22.1,T,,,,4,Leans pathogenic,CADD 22.1 (high); Absent from gnomAD
+MYBPC3,p.Ser175Leu,c.524C>T,4756885,"criteria provided, single submitter",22.9,T,B,0.0,,4,Leans pathogenic,CADD 22.9 (high); Ultra-rare in gnomAD (AF=0.00e+00)
+MYBPC3,,NM_000256.3(MYBPC3):c.822-2A>G,4756877,"criteria provided, single submitter",28.7,,,,,4,Leans pathogenic,CADD 28.7 (high); Absent from gnomAD
+MYBPC3,p.Glu314Ala,c.941A>C,4756870,"criteria provided, single submitter",23.8,T,B,,6.57091e-06,4,Leans pathogenic,CADD 23.8 (high); Ultra-rare in gnomAD (AF=6.57e-06)
+MYBPC3,p.Asn624Ser,c.1871A>G,4751125,"criteria provided, single submitter",23.5,T,,2.20047e-05,,4,Leans pathogenic,CADD 23.5 (high); Ultra-rare in gnomAD (AF=2.20e-05)
+MYBPC3,p.Arg509Thr,c.1526G>C,4742297,"criteria provided, multiple submitters, no conflicts",15.51,D,,,,4,Leans pathogenic,CADD 15.5 (moderate); SIFT: damaging; Absent from gnomAD
+MYBPC3,p.Thr1166Ile,c.3497C>T,4860511,"criteria provided, single submitter",17.1,T,,,,3,Weakly leans pathogenic,CADD 17.1 (moderate); Absent from gnomAD
+MYBPC3,p.Val896Ala,c.2687T>C,4860508,"criteria provided, single submitter",14.14,D,,,,3,Weakly leans pathogenic,SIFT: damaging; Absent from gnomAD
+MYBPC3,p.Ser588Asn,c.1763G>A,4804913,"criteria provided, single submitter",18.65,T,,,,3,Weakly leans pathogenic,CADD 18.6 (moderate); Absent from gnomAD
+MYBPC3,p.Ter1275Arg,c.3823T>A,4758313,"criteria provided, single submitter",17.11,,,,,3,Weakly leans pathogenic,CADD 17.1 (moderate); Absent from gnomAD
+MYBPC3,p.Thr290Pro,c.868A>C,4757667,"criteria provided, single submitter",13.82,D,B,,,3,Weakly leans pathogenic,SIFT: damaging; Absent from gnomAD
+MYBPC3,p.Ala100Pro,c.298G>C,4757392,"criteria provided, single submitter",13.8,D,B,,,3,Weakly leans pathogenic,SIFT: damaging; Absent from gnomAD
+MYBPC3,p.Gly128Arg,c.382G>C,4756983,"criteria provided, single submitter",15.63,T,B,,,3,Weakly leans pathogenic,CADD 15.6 (moderate); Absent from gnomAD
+MYBPC3,p.Glu1168Lys,c.3502G>A,4756810,"criteria provided, single submitter",19.23,T,,,,3,Weakly leans pathogenic,CADD 19.2 (moderate); Absent from gnomAD
+MYBPC3,p.Leu387Val,c.1159C>G,4747707,"criteria provided, single submitter",15.0,T,B,,,3,Weakly leans pathogenic,CADD 15.0 (moderate); Absent from gnomAD
+MYBPC3,p.Gly72fs,c.215del,4883902,no assertion criteria provided,,,,,,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,p.Gln1274fs,c.3822del,4841549,"criteria provided, single submitter",,,,,,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,p.Gly354_Met355insLysGly,c.1058_1063dup,4820500,"criteria provided, single submitter",,,,,,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,,NM_000256.3(MYBPC3):c.822-3C>A,4820491,"criteria provided, single submitter",,,,,,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,,NM_000256.3(MYBPC3):c.654+5del,4820473,"criteria provided, single submitter",,,,,,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,,NM_000256.3(MYBPC3):c.1091-575A>C,4813365,"criteria provided, single submitter",,,,,,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,,NM_000256.3(MYBPC3):c.1091-3C>T,4807983,"criteria provided, single submitter",,,,,,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,p.Met1199Ile,c.3597G>A,4799328,"criteria provided, single submitter",11.96,T,,,,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,p.Asp506Glu,c.1518C>A,4796867,"criteria provided, single submitter",9.539,T,,,,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,p.Leu808=,c.2424G>A,4776886,"criteria provided, single submitter",,,,,,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,,NM_000256.3(MYBPC3):c.2308+3G>A,4767784,"criteria provided, single submitter",,,,4.01452e-06,,2,Weakly leans pathogenic,Ultra-rare in gnomAD (AF=4.01e-06)
+MYBPC3,,NM_000256.3(MYBPC3):c.1227-14C>A,4758869,"criteria provided, single submitter",,,,4.20232e-06,6.56961e-06,2,Weakly leans pathogenic,Ultra-rare in gnomAD (AF=6.57e-06)
+MYBPC3,,NM_000256.3(MYBPC3):c.*3_*4del,4758583,"criteria provided, single submitter",,,,,,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,,NM_000256.3(MYBPC3):c.2067+5T>G,4758574,"criteria provided, single submitter",,,,4.69965e-06,6.56875e-06,2,Weakly leans pathogenic,Ultra-rare in gnomAD (AF=6.57e-06)
+MYBPC3,p.Ala417Thr,c.1249G>A,4757802,"criteria provided, single submitter",13.86,T,,0.0,,2,Weakly leans pathogenic,Ultra-rare in gnomAD (AF=0.00e+00)
+MYBPC3,p.Gly279=,c.837T>G,4757382,"criteria provided, single submitter",,,,,,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,p.Met1199Ile,c.3597G>T,4757120,"criteria provided, single submitter",11.26,T,,,,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,p.Gly922=,c.2766G>T,4756829,"criteria provided, single submitter",,,,,,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,p.Val1063Ile,c.3187G>A,4756600,"criteria provided, single submitter",4.373,T,,,,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,,NM_000256.3(MYBPC3):c.292+5G>A,4756378,"criteria provided, single submitter",,,,,,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,p.Thr114Asn,c.341C>A,4756374,"criteria provided, single submitter",13.35,T,B,,,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,,NM_000256.3(MYBPC3):c.1090+453C>G,4756192,"criteria provided, single submitter",,,,,,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,p.Ala522Ser,c.1564G>T,4755798,"criteria provided, single submitter",9.08,T,,,,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,p.Val1038Leu,c.3112G>T,4754710,"criteria provided, single submitter",7.575,T,,,,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,p.Asp285Glu,c.855T>G,4753345,"criteria provided, single submitter",12.63,T,B,,,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,p.Gly912=,c.2736C>T,4752586,"criteria provided, single submitter",,,,,,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,,NM_000256.3(MYBPC3):c.3490+5T>C,4742797,"criteria provided, single submitter",,,,,,2,Weakly leans pathogenic,Absent from gnomAD

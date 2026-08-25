@@ -1,0 +1,17 @@
+======================================================================
+MANUSCRIPT-READY SUMMARY SENTENCES
+(Copy/adapt into your Results section -- every number below
+ is from this actual run, not a placeholder.)
+======================================================================
+
+--- MYBPC3 ---
+Of 100 variants of uncertain significance retrieved from ClinVar for MYBPC3, 85 (85.0%) had at least one annotation available from gnomAD and/or dbNSFP (CADD/SIFT/PolyPhen-2) via myvariant.info.
+Applying the scoring rule described in Methods, 64 variant(s) scored as 'leans pathogenic,' 36 as 'weakly leans pathogenic,' 0 as 'genuinely uncertain,' and 0 as 'leans benign.'
+Mean CADD Phred score across annotated variants: 21.17.
+86 variant(s) (86.0%) were absent from gnomAD entirely.
+
+--- BRCA1 ---
+Of 100 variants of uncertain significance retrieved from ClinVar for BRCA1, 88 (88.0%) had at least one annotation available from gnomAD and/or dbNSFP (CADD/SIFT/PolyPhen-2) via myvariant.info.
+Applying the scoring rule described in Methods, 55 variant(s) scored as 'leans pathogenic,' 45 as 'weakly leans pathogenic,' 0 as 'genuinely uncertain,' and 0 as 'leans benign.'
+Mean CADD Phred score across annotated variants: 15.57.
+96 variant(s) (96.0%) were absent from gnomAD entirely.

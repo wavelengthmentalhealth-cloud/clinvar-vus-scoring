@@ -1,0 +1,101 @@
+gene,protein_change,cdna_change,clinvar_uid,review_status,cadd_phred,sift_pred,polyphen2_pred,gnomad_exome_af,gnomad_genome_af,score,lean,reasons
+BRCA1,p.Leu1404Met,c.4210C>A,4883311,no assertion criteria provided,23.3,D,D,,,6,Leans pathogenic,CADD 23.3 (high); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Leu611Arg,c.1832T>G,4867741,"criteria provided, single submitter",22.2,D,D,,,6,Leans pathogenic,CADD 22.2 (high); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Asp853Glu,c.2559T>A,4867738,"criteria provided, single submitter",20.7,D,D,,,6,Leans pathogenic,CADD 20.7 (high); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Lys519Asn,c.1557G>T,4867737,"criteria provided, single submitter",23.9,D,D,,,6,Leans pathogenic,CADD 23.9 (high); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Asn630Asp,c.1888A>G,4867736,"criteria provided, single submitter",20.6,D,P,,,6,Leans pathogenic,CADD 20.6 (high); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Asp853His,c.2557G>C,4867729,"criteria provided, single submitter",24.9,D,D,,,6,Leans pathogenic,CADD 24.9 (high); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Phe304Val,c.910T>G,4867711,"criteria provided, single submitter",20.5,D,P,,,6,Leans pathogenic,CADD 20.5 (high); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Ser873Pro,c.2617T>C,4867693,"criteria provided, single submitter",21.0,D,P,,,6,Leans pathogenic,CADD 21.0 (high); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Ser378Asn,c.1133G>A,4867690,"criteria provided, single submitter",25.0,D,D,3.98165e-06,,6,Leans pathogenic,CADD 25.0 (high); SIFT: damaging; PolyPhen-2: damaging; Ultra-rare in gnomAD (AF=3.98e-06)
+BRCA1,p.Thr1393Pro,c.4177A>C,4856567,"criteria provided, single submitter",22.8,D,P,4.08317e-06,,6,Leans pathogenic,CADD 22.8 (high); SIFT: damaging; PolyPhen-2: damaging; Ultra-rare in gnomAD (AF=4.08e-06)
+BRCA1,p.Glu121Lys,c.361G>A,4842666,"criteria provided, single submitter",24.8,D,D,,,6,Leans pathogenic,CADD 24.8 (high); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Thr775Asn,c.2324C>A,4842660,"criteria provided, single submitter",24.1,D,D,,,6,Leans pathogenic,CADD 24.1 (high); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Ser632Arg,c.1894A>C,4826634,"criteria provided, single submitter",20.7,D,D,,,6,Leans pathogenic,CADD 20.7 (high); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Arg163Gly,c.487A>G,4824196,"criteria provided, single submitter",20.6,D,P,,,6,Leans pathogenic,CADD 20.6 (high); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Pro514Ala,c.1540C>G,4813427,"criteria provided, single submitter",24.8,D,D,,,6,Leans pathogenic,CADD 24.8 (high); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Val83Ala,c.248T>C,4800873,"criteria provided, single submitter",23.5,D,P,,,6,Leans pathogenic,CADD 23.5 (high); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Asp120His,c.358G>C,4800872,"criteria provided, single submitter",21.8,D,P,,,6,Leans pathogenic,CADD 21.8 (high); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Arg133Gly,c.397C>G,4800870,"criteria provided, multiple submitters, no conflicts",23.6,D,D,,,6,Leans pathogenic,CADD 23.6 (high); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Asp189Asn,c.565G>A,4800867,"criteria provided, single submitter",24.9,D,P,,,6,Leans pathogenic,CADD 24.9 (high); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Glu255Val,c.764A>T,4800865,"criteria provided, single submitter",23.4,D,D,,,6,Leans pathogenic,CADD 23.4 (high); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Ser267Leu,c.800C>T,4800864,"criteria provided, single submitter",27.2,D,D,,,6,Leans pathogenic,CADD 27.2 (high); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Asn480Tyr,c.1438A>T,4800860,"criteria provided, single submitter",20.2,D,P,,,6,Leans pathogenic,CADD 20.2 (high); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Pro529Leu,c.1586C>T,4800858,"criteria provided, single submitter",23.5,D,D,,,6,Leans pathogenic,CADD 23.5 (high); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Thr557Lys,c.1670C>A,4800856,"criteria provided, single submitter",20.2,D,D,,,6,Leans pathogenic,CADD 20.2 (high); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Phe861Ser,c.2582T>C,4800846,"criteria provided, single submitter",24.9,D,D,,,6,Leans pathogenic,CADD 24.9 (high); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Gln867Pro,c.2600A>C,4800845,"criteria provided, single submitter",21.1,D,D,,,6,Leans pathogenic,CADD 21.1 (high); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Pro985His,c.2954C>A,4867746,"criteria provided, single submitter",19.72,D,D,,,5,Leans pathogenic,CADD 19.7 (moderate); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Lys607Arg,c.1820A>G,4867743,"criteria provided, single submitter",15.81,D,D,,,5,Leans pathogenic,CADD 15.8 (moderate); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Thr478Ile,c.1433C>T,4867732,"criteria provided, single submitter",15.79,D,P,,,5,Leans pathogenic,CADD 15.8 (moderate); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Ser1436Tyr,c.4307C>A,4867706,"criteria provided, single submitter",18.1,D,P,,,5,Leans pathogenic,CADD 18.1 (moderate); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Ser889Cys,c.2666C>G,4842650,"criteria provided, single submitter",19.88,D,D,,,5,Leans pathogenic,CADD 19.9 (moderate); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Ser1387Phe,c.4160C>T,4842648,"criteria provided, single submitter",23.2,T,D,,,5,Leans pathogenic,CADD 23.2 (high); PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Glu453Gly,c.1358A>G,4828182,"criteria provided, single submitter",16.26,D,P,,,5,Leans pathogenic,CADD 16.3 (moderate); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Leu574Arg,c.1721T>G,4824200,"criteria provided, single submitter",19.86,D,D,,,5,Leans pathogenic,CADD 19.9 (moderate); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Ser1460Arg,c.4378A>C,4824189,"criteria provided, single submitter",21.5,D,B,,,5,Leans pathogenic,CADD 21.5 (high); SIFT: damaging; Absent from gnomAD
+BRCA1,p.Ser1569Cys,c.4705A>T,4808452,"criteria provided, single submitter",17.94,D,D,,,5,Leans pathogenic,CADD 17.9 (moderate); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Ser242Ile,c.725G>T,4800866,"criteria provided, single submitter",19.2,D,D,,,5,Leans pathogenic,CADD 19.2 (moderate); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Lys894Ile,c.2681A>T,4800843,"criteria provided, single submitter",19.93,D,D,,,5,Leans pathogenic,CADD 19.9 (moderate); SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Asn874Ser,c.2621A>G,4867721,"criteria provided, single submitter",17.97,T,P,,,4,Leans pathogenic,CADD 18.0 (moderate); PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Ser229Pro,c.685T>C,4867715,"criteria provided, single submitter",19.91,T,D,,,4,Leans pathogenic,CADD 19.9 (moderate); PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Leu498Val,c.1492C>G,4867708,"criteria provided, single submitter",4.228,D,P,,,4,Leans pathogenic,SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Asn298Asp,c.892A>G,4867699,"criteria provided, single submitter",17.05,T,P,,,4,Leans pathogenic,CADD 17.1 (moderate); PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Ser217Gly,c.649A>G,4867685,"criteria provided, single submitter",17.1,D,B,,,4,Leans pathogenic,CADD 17.1 (moderate); SIFT: damaging; Absent from gnomAD
+BRCA1,p.Glu781Val,c.2342A>T,4856542,"criteria provided, single submitter",18.76,D,B,3.98785e-06,,4,Leans pathogenic,CADD 18.8 (moderate); SIFT: damaging; Ultra-rare in gnomAD (AF=3.99e-06)
+BRCA1,p.Ser454Arg,c.1362T>G,4842665,"criteria provided, single submitter",11.8,D,P,,,4,Leans pathogenic,SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Glu1526Asp,c.4578G>T,4842649,"criteria provided, single submitter",15.84,D,B,,,4,Leans pathogenic,CADD 15.8 (moderate); SIFT: damaging; Absent from gnomAD
+BRCA1,p.Ser451Leu,c.1352C>T,4826628,"criteria provided, single submitter",17.64,D,B,,,4,Leans pathogenic,CADD 17.6 (moderate); SIFT: damaging; Absent from gnomAD
+BRCA1,p.Glu391Gly,c.1172A>G,4824191,"criteria provided, single submitter",18.42,D,B,,,4,Leans pathogenic,CADD 18.4 (moderate); SIFT: damaging; Absent from gnomAD
+BRCA1,p.Ile483Lys,c.1448T>A,4824190,"criteria provided, single submitter",14.21,D,P,,,4,Leans pathogenic,SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Ser123Ala,c.367T>G,4800871,"criteria provided, single submitter",17.77,T,P,,,4,Leans pathogenic,CADD 17.8 (moderate); PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Pro145Ala,c.433C>G,4800869,"criteria provided, single submitter",16.28,T,D,,,4,Leans pathogenic,CADD 16.3 (moderate); PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.His270Gln,c.810T>A,4800863,"criteria provided, multiple submitters, no conflicts",17.22,T,D,,,4,Leans pathogenic,CADD 17.2 (moderate); PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Ser389Arg,c.1167T>G,4800862,"criteria provided, single submitter",18.07,T,P,,,4,Leans pathogenic,CADD 18.1 (moderate); PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Val477Leu,c.1429G>T,4800861,"criteria provided, single submitter",0.684,D,P,,,4,Leans pathogenic,SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Leu735Ile,c.2203C>A,4800849,"criteria provided, single submitter",12.92,D,P,,,4,Leans pathogenic,SIFT: damaging; PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Ser1374Thr,c.4121G>C,4867749,"criteria provided, single submitter",15.47,T,B,,,3,Weakly leans pathogenic,CADD 15.5 (moderate); Absent from gnomAD
+BRCA1,p.Lys1500Asn,c.4500A>C,4867747,"criteria provided, single submitter",14.35,D,B,,,3,Weakly leans pathogenic,SIFT: damaging; Absent from gnomAD
+BRCA1,p.Pro209Thr,c.625C>A,4867709,"criteria provided, single submitter",15.31,T,B,,,3,Weakly leans pathogenic,CADD 15.3 (moderate); Absent from gnomAD
+BRCA1,p.Glu1373Gly,c.4118A>G,4867703,"criteria provided, single submitter",11.79,D,B,,,3,Weakly leans pathogenic,SIFT: damaging; Absent from gnomAD
+BRCA1,p.Phe952Ser,c.2855T>C,4828308,"criteria provided, single submitter",14.86,D,B,,,3,Weakly leans pathogenic,SIFT: damaging; Absent from gnomAD
+BRCA1,p.Thr617Ser,c.1850C>G,4828096,"criteria provided, single submitter",13.76,T,P,,,3,Weakly leans pathogenic,PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Thr539Ala,c.1615A>G,4826632,"criteria provided, single submitter",4.137,D,B,,,3,Weakly leans pathogenic,SIFT: damaging; Absent from gnomAD
+BRCA1,p.Glu902Asp,c.2706A>T,4824192,"criteria provided, single submitter",6.743,T,P,,,3,Weakly leans pathogenic,PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Val738Gly,c.2213T>G,4813451,"criteria provided, single submitter",12.43,D,B,,,3,Weakly leans pathogenic,SIFT: damaging; Absent from gnomAD
+BRCA1,p.Leu152Val,c.454C>G,4800868,"criteria provided, single submitter",14.43,T,P,,,3,Weakly leans pathogenic,PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,p.Glu575Asp,c.1725A>C,4800854,"criteria provided, single submitter",13.16,D,B,,,3,Weakly leans pathogenic,SIFT: damaging; Absent from gnomAD
+BRCA1,p.Lys581Glu,c.1741A>G,4800853,"criteria provided, single submitter",9.233,D,B,,,3,Weakly leans pathogenic,SIFT: damaging; Absent from gnomAD
+BRCA1,p.Ser844Ile,c.2531G>T,4800847,"criteria provided, single submitter",9.477,D,B,,,3,Weakly leans pathogenic,SIFT: damaging; Absent from gnomAD
+BRCA1,p.Pro968Leu,c.2903C>T,4800842,"criteria provided, single submitter",14.13,D,B,,,3,Weakly leans pathogenic,SIFT: damaging; Absent from gnomAD
+BRCA1,p.Glu1004Asp,c.3012G>T,4800841,"criteria provided, single submitter",9.114,T,D,,,3,Weakly leans pathogenic,PolyPhen-2: damaging; Absent from gnomAD
+BRCA1,,NM_007294.4(BRCA1):c.5152+6del,4883931,no assertion criteria provided,,,,,,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Pro1749_Lys1750delinsGln,c.5246_5248del,4880486,"criteria provided, single submitter",,,,,,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,,NM_007294.3:c.671-46_671-45insALU,4867748,"criteria provided, single submitter",,,,,,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Ser140Ile,c.419G>T,4867739,"criteria provided, single submitter",2.854,T,B,,,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,,NM_007294.4(BRCA1):c.4185+4A>G,4867735,"criteria provided, single submitter",,,,,,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,,NM_007294.4(BRCA1):c.80+4delinsTTAC,4867734,"criteria provided, single submitter",,,,,,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Ser1436Asp,c.4306_4308delinsGAC,4867707,"criteria provided, single submitter",,,,,,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Ser1436Ala,c.4306T>G,4867705,"criteria provided, single submitter",6.904,T,B,,,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,,NM_007294.4(BRCA1):c.4358-1_4358delinsAG,4867697,"criteria provided, single submitter",,,,,,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Glu259_Tyr261delinsAsp,c.777_782del,4867695,"criteria provided, single submitter",,,,,,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Ser1428Gly,c.4282A>G,4867691,"criteria provided, single submitter",5.65,T,B,,,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,,NM_007294.4(BRCA1):c.5468-64_5480dup,4853057,"criteria provided, single submitter",,,,,,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,,NM_007294.4(BRCA1):c.5193+123del,4845425,"criteria provided, single submitter",,,,,,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Ala1608Ser,c.4822G>T,4842661,"criteria provided, single submitter",1.882,T,B,,,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Ile769Val,c.2305A>G,4842657,"criteria provided, single submitter",5.102,T,B,,,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Gly543Asp,c.1628G>A,4828251,"criteria provided, single submitter",0.038,T,B,,,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Glu730Gly,c.2189A>G,4826629,"criteria provided, single submitter",10.98,T,B,,,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Lys731Arg,c.2192A>G,4824198,"criteria provided, single submitter",0.204,T,B,3.99014e-06,,2,Weakly leans pathogenic,Ultra-rare in gnomAD (AF=3.99e-06)
+BRCA1,p.Ser840Arg,c.2520T>A,4824195,"criteria provided, single submitter",14.87,T,B,,,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,,GRCh37/hg19 17q21.31(chr17:41267743-41267796)x3,4823850,"criteria provided, single submitter",,,,,,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,,NM_007294.4(BRCA1):c.4675+4A>G,4809361,"criteria provided, single submitter",,,,,,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Phe486Cys,c.1457T>G,4800859,"criteria provided, single submitter",3.576,T,B,,,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Thr549Ser,c.1646C>G,4800857,"criteria provided, single submitter",12.34,T,B,,,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Ser561Ala,c.1681T>G,4800855,"criteria provided, single submitter",2.673,T,B,,,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Met669Ile,c.2007G>A,4800852,"criteria provided, multiple submitters, no conflicts",0.033,T,B,,,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Phe721Leu,c.2163T>G,4800851,"criteria provided, single submitter",13.95,T,B,,,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Glu733Lys,c.2197G>A,4800850,"criteria provided, single submitter",12.0,T,B,,,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Ser753Gly,c.2257A>G,4800848,"criteria provided, single submitter",8.194,T,B,,,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Gly876Ala,c.2627G>C,4800844,"criteria provided, single submitter",13.39,T,B,,,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Pro1445Leu,c.4334C>T,4800830,"criteria provided, single submitter",0.018,T,B,,,2,Weakly leans pathogenic,Absent from gnomAD
