@@ -1,0 +1,13 @@
+======================================================================
+CALIBRATION CHECK -- MANUSCRIPT-READY SUMMARY
+(Known-Pathogenic and known-Benign variants, NOT VUS -- tests
+ whether the scoring rule actually separates known classes.)
+======================================================================
+
+--- MYBPC3 ---
+Of 30 known-Pathogenic MYBPC3 variants tested, 30 (100.0%) were correctly scored as 'leans pathogenic' or 'weakly leans pathogenic' (score >= 1) by the scoring rule.
+Of 30 known-Benign MYBPC3 variants tested, 9 (30.0%) were correctly scored as 'leans benign' or 'genuinely uncertain' (score <= 0) by the scoring rule.
+
+--- BRCA1 ---
+Of 30 known-Pathogenic BRCA1 variants tested, 30 (100.0%) were correctly scored as 'leans pathogenic' or 'weakly leans pathogenic' (score >= 1) by the scoring rule.
+Of 30 known-Benign BRCA1 variants tested, 5 (16.7%) were correctly scored as 'leans benign' or 'genuinely uncertain' (score <= 0) by the scoring rule.
