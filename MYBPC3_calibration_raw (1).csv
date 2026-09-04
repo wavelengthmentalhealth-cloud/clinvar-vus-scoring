@@ -1,0 +1,61 @@
+gene,protein_change,cdna_change,clinvar_uid,true_class,cadd_phred,sift_pred,polyphen2_pred,revel_score,gnomad_exome_af,gnomad_genome_af,score_v1,lean_v1,reasons_v1,score_v2,lean_v2,reasons_v2
+MYBPC3,p.Tyr749Ter,c.2247C>A,4860512,pathogenic,35.0,,,,,,4,Leans pathogenic,CADD 35.0 (high); Absent from gnomAD,4,Leans pathogenic,CADD 35.0 (high); Absent from gnomAD
+MYBPC3,p.Arg63fs,c.185dup,4856629,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,p.Glu739Ter,c.2215G>T,4856628,pathogenic,41.0,,,,,,4,Leans pathogenic,CADD 41.0 (high); Absent from gnomAD,4,Leans pathogenic,CADD 41.0 (high); Absent from gnomAD
+MYBPC3,p.Tyr847fs,c.2540_2547delinsT,4856627,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,p.Arg1033fs,c.3097del,4856626,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,p.Ala1035fs,c.3103del,4856625,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,p.Glu1050Ter,c.3148G>T,4856624,pathogenic,47.0,,,,,,4,Leans pathogenic,CADD 47.0 (high); Absent from gnomAD,4,Leans pathogenic,CADD 47.0 (high); Absent from gnomAD
+MYBPC3,p.Gly1079fs,c.3236del,4856623,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,p.Ala1194fs,c.3580dup,4856622,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,p.Lys360Ter,c.1078A>T,4856617,pathogenic,37.0,,,,,,4,Leans pathogenic,CADD 37.0 (high); Absent from gnomAD,4,Leans pathogenic,CADD 37.0 (high); Absent from gnomAD
+MYBPC3,,NM_000256.3(MYBPC3):c.1351+1G>T,4856616,pathogenic,34.0,,,,,,4,Leans pathogenic,CADD 34.0 (high); Absent from gnomAD,4,Leans pathogenic,CADD 34.0 (high); Absent from gnomAD
+MYBPC3,p.Glu520Ter,c.1558G>T,4856615,pathogenic,39.0,,,,,,4,Leans pathogenic,CADD 39.0 (high); Absent from gnomAD,4,Leans pathogenic,CADD 39.0 (high); Absent from gnomAD
+MYBPC3,,NM_000256.3(MYBPC3):c.1624+2T>G,4856614,pathogenic,26.5,,,,,,4,Leans pathogenic,CADD 26.5 (high); Absent from gnomAD,4,Leans pathogenic,CADD 26.5 (high); Absent from gnomAD
+MYBPC3,p.Gly61fs,c.181_202del,4856613,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,,NM_000256.3(MYBPC3):c.655-2del,4856612,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,p.Phe233fs,c.696del,4856611,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,p.Gln1012fs,c.3033del,4855852,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,,NM_000256.3(MYBPC3):c.1224-1G>C,4854359,pathogenic,29.6,,,,,,4,Leans pathogenic,CADD 29.6 (high); Absent from gnomAD,4,Leans pathogenic,CADD 29.6 (high); Absent from gnomAD
+MYBPC3,p.Lys1211fs,c.3633_3634del,4851432,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,p.Ala31fs,c.89dup,4806331,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,p.Gln642fs,c.1924del,4778078,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,p.Val592fs,c.1774del,4771359,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,p.Tyr213Ter,c.639C>G,4763849,pathogenic,29.5,,,,,,4,Leans pathogenic,CADD 29.5 (high); Absent from gnomAD,4,Leans pathogenic,CADD 29.5 (high); Absent from gnomAD
+MYBPC3,,NM_000256.3(MYBPC3):c.905+1del,4749665,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,p.Tyr749fs,c.2245del,4738583,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,p.Glu70fs,c.208del,4737612,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,p.Ala105fs,c.313_325del,4730327,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,p.Arg1241fs,c.3720_3724del,4730208,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,p.Glu989fs,c.2965del,4727665,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,p.Asp75fs,c.222del,4727303,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,,NM_000256.3(MYBPC3):c.772+9del,3616541,benign,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,,NM_000256.3(MYBPC3):c.1624+19dup,2157648,benign,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,,NM_000256.3(MYBPC3):c.2149-3del,2048186,benign,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,,NM_000256.3(MYBPC3):c.909-14del,1973833,benign,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,,NM_000256.3(MYBPC3):c.655-19del,1668810,benign,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,,NM_000256.3(MYBPC3):c.773-18T>C,1545262,benign,,,,,0.00011238,7.89069e-05,0,Genuinely uncertain,Insufficient data,0,Genuinely uncertain,Insufficient data
+MYBPC3,,NM_000256.3(MYBPC3):c.2737+16C>G,1297730,benign,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,,NM_000256.3(MYBPC3):c.505+39dup,1297668,benign,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,,NM_000256.3(MYBPC3):c.2148+21G>A,1297572,benign,,,,,0.000276824,0.000216757,0,Genuinely uncertain,Insufficient data,0,Genuinely uncertain,Insufficient data
+MYBPC3,,NM_000256.3(MYBPC3):c.-50dup,1292621,benign,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,,NM_000256.3(MYBPC3):c.406+114C>A,1292331,benign,,,,,,0.0189429,-2,Leans benign,Common in gnomAD (AF=1.89e-02) -- likely too common to be pathogenic,-2,Leans benign,Common in gnomAD (AF=1.89e-02) -- likely too common to be pathogenic
+MYBPC3,,NM_000256.3(MYBPC3):c.*47C>T,1291384,benign,,,,,,1.97132e-05,2,Weakly leans pathogenic,Ultra-rare in gnomAD (AF=1.97e-05),2,Weakly leans pathogenic,Ultra-rare in gnomAD (AF=1.97e-05)
+MYBPC3,,NM_000256.3(MYBPC3):c.3815-66C>T,1290614,benign,,,,,,0.280742,-2,Leans benign,Common in gnomAD (AF=2.81e-01) -- likely too common to be pathogenic,-2,Leans benign,Common in gnomAD (AF=2.81e-01) -- likely too common to be pathogenic
+MYBPC3,,NM_000256.3(MYBPC3):c.3815-12C>G,1290613,benign,,,,,,6.56935e-06,2,Weakly leans pathogenic,Ultra-rare in gnomAD (AF=6.57e-06),2,Weakly leans pathogenic,Ultra-rare in gnomAD (AF=6.57e-06)
+MYBPC3,,NM_000256.3(MYBPC3):c.2413+17C>T,1287732,benign,,,,,5.17725e-05,1.31498e-05,2,Weakly leans pathogenic,Ultra-rare in gnomAD (AF=5.18e-05),2,Weakly leans pathogenic,Ultra-rare in gnomAD (AF=5.18e-05)
+MYBPC3,,NM_000256.3(MYBPC3):c.654+11C>T,1284225,benign,,,,,0.000211158,8.54106e-05,0,Genuinely uncertain,Insufficient data,0,Genuinely uncertain,Insufficient data
+MYBPC3,,NM_000256.3(MYBPC3):c.1090+29A>G,1281878,benign,,,,,3.63331e-05,8.5478e-05,2,Weakly leans pathogenic,Ultra-rare in gnomAD (AF=8.55e-05),2,Weakly leans pathogenic,Ultra-rare in gnomAD (AF=8.55e-05)
+MYBPC3,,NC_000011.10:g.47352876del,1281380,benign,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,,NM_000256.3(MYBPC3):c.927-119C>T,1274556,benign,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,,NC_000011.10:g.47331331A>T,1271781,benign,,,,,,0.0,2,Weakly leans pathogenic,Ultra-rare in gnomAD (AF=0.00e+00),2,Weakly leans pathogenic,Ultra-rare in gnomAD (AF=0.00e+00)
+MYBPC3,,NM_000256.3(MYBPC3):c.2309-159del,1263362,benign,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,,NM_000256.3(MYBPC3):c.*294T>A,1262135,benign,,,,,,0.000183932,0,Genuinely uncertain,Insufficient data,0,Genuinely uncertain,Insufficient data
+MYBPC3,,NM_000256.3(MYBPC3):c.927-118C>G,1260170,benign,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,,NM_000256.3(MYBPC3):c.*314A>G,1258006,benign,,,,,,1.31415e-05,2,Weakly leans pathogenic,Ultra-rare in gnomAD (AF=1.31e-05),2,Weakly leans pathogenic,Ultra-rare in gnomAD (AF=1.31e-05)
+MYBPC3,,NM_000256.3(MYBPC3):c.1927+123T>C,1256929,benign,,,,,,0.99473,-2,Leans benign,Common in gnomAD (AF=9.95e-01) -- likely too common to be pathogenic,-2,Leans benign,Common in gnomAD (AF=9.95e-01) -- likely too common to be pathogenic
+MYBPC3,,NC_000011.10:g.47331311G>A,1253549,benign,,,,,,0.281018,-2,Leans benign,Common in gnomAD (AF=2.81e-01) -- likely too common to be pathogenic,-2,Leans benign,Common in gnomAD (AF=2.81e-01) -- likely too common to be pathogenic
+MYBPC3,,NM_000256.3(MYBPC3):c.2738-110T>A,1250155,benign,,,,,,0.417787,-2,Leans benign,Common in gnomAD (AF=4.18e-01) -- likely too common to be pathogenic,-2,Leans benign,Common in gnomAD (AF=4.18e-01) -- likely too common to be pathogenic
+MYBPC3,,NM_000256.3(MYBPC3):c.1790+8T>C,1249292,benign,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,,NM_000256.3(MYBPC3):c.506-10_506-9delinsTT,1247937,benign,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+MYBPC3,,NM_000256.3(MYBPC3):c.927-24C>T,1247597,benign,,,,,0.0,,2,Weakly leans pathogenic,Ultra-rare in gnomAD (AF=0.00e+00),2,Weakly leans pathogenic,Ultra-rare in gnomAD (AF=0.00e+00)

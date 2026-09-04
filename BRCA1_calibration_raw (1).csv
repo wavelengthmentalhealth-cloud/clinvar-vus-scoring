@@ -1,0 +1,61 @@
+gene,protein_change,cdna_change,clinvar_uid,true_class,cadd_phred,sift_pred,polyphen2_pred,revel_score,gnomad_exome_af,gnomad_genome_af,score_v1,lean_v1,reasons_v1,score_v2,lean_v2,reasons_v2
+BRCA1,p.Gln81fs,c.241_256del,4884209,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Ser242fs,c.726_727del,4882953,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Ser151fs,c.451del,4876137,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Lys338fs,c.1014_1015delinsT,4876067,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Asn537fs,c.1611_1612delinsAAA,4876022,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Gly1567fs,c.4698_4699del,4876014,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.His279fs,c.834_840del,4876004,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Asn567fs,c.1699_1700del,4875788,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Arg951fs,c.2850_2851del,4871869,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Ser950_Arg951insTer,c.2849dup,4871825,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Leu752Ter,c.2255T>G,4867744,pathogenic,34.0,,,,,,4,Leans pathogenic,CADD 34.0 (high); Absent from gnomAD,4,Leans pathogenic,CADD 34.0 (high); Absent from gnomAD
+BRCA1,p.Asp853fs,c.2558_2559delinsCAA,4867740,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Lys793Ter,c.2376_2377insTA,4867720,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Ala521fs,c.1560del,4867719,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.His270fs,c.807dup,4867714,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Cys47fs,c.139del,4867704,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.His1006_Ser1007insTer,c.3020del,4867700,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Asn1030fs,c.3089del,4867698,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Thr327fs,c.980del,4867694,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Ile587fs,c.1760_1761insG,4856756,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Pro25fs,c.74_78del,4856740,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,,NM_007294.4:c.(5332+21_5333-21)_(5406+21_5407-21)del,4852764,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Glu100fs,c.300del,4852758,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Thr617fs,c.1849dup,4852680,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Val1838_Leu1839insTer,c.5516_5525del,4852602,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Phe709_Thr710delinsTer,c.2126_2130delinsAG,4851364,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Lys711fs,c.2130del,4851359,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Ile591fs,c.1772_1775del,4842663,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Glu1017fs,c.3050del,4842656,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Glu880fs,c.2639_2646delinsG,4842655,pathogenic,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Glu881Gln,c.2641G>C,4856533,benign,18.68,T,D,0.543,,,4,Leans pathogenic,CADD 18.7 (moderate); PolyPhen-2: damaging; Absent from gnomAD,5,Leans pathogenic,CADD 18.7 (moderate); PolyPhen-2: damaging; Absent from gnomAD; REVEL 0.54 (moderate)
+BRCA1,p.Val299Leu,c.895G>T,4856526,benign,23.6,D,D,0.701,3.97972e-06,,6,Leans pathogenic,CADD 23.6 (high); SIFT: damaging; PolyPhen-2: damaging; Ultra-rare in gnomAD (AF=3.98e-06),8,Leans pathogenic,CADD 23.6 (high); SIFT: damaging; PolyPhen-2: damaging; Ultra-rare in gnomAD (AF=3.98e-06); REVEL 0.70 (likely pathogenic)
+BRCA1,,NM_007294.4(BRCA1):c.4987-1352del,4729288,benign,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.His318Gln,c.954T>G,4625758,benign,5.938,T,B,0.488,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,,NM_007294.4(BRCA1):c.-19-109A>G,4073519,benign,,,,,,1.31392e-05,2,Weakly leans pathogenic,Ultra-rare in gnomAD (AF=1.31e-05),2,Weakly leans pathogenic,Ultra-rare in gnomAD (AF=1.31e-05)
+BRCA1,,NM_007294.4(BRCA1):c.4097-12T>C,4071323,benign,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,,NM_007294.3:c.547+68A>G,4057255,benign,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,,NM_007294.4(BRCA1):c.4987-144_4987-142dup,3911260,benign,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.His839Tyr,c.2515C>T,2445306,benign,4.9,T,B,0.398,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,,NM_007294.4(BRCA1):c.5407-7del,2149163,benign,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,,NM_007294.4(BRCA1):c.5152+12A>G,2148450,benign,,,,,3.98257e-06,,2,Weakly leans pathogenic,Ultra-rare in gnomAD (AF=3.98e-06),2,Weakly leans pathogenic,Ultra-rare in gnomAD (AF=3.98e-06)
+BRCA1,,NM_007294.4(BRCA1):c.5074+57C>T,2075140,benign,,,,,,0.000118348,0,Genuinely uncertain,Insufficient data,0,Genuinely uncertain,Insufficient data
+BRCA1,,NM_007294.4(BRCA1):c.547+20del,2033448,benign,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,,NM_007294.4(BRCA1):c.4185+7del,2020926,benign,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,,NM_007294.4(BRCA1):c.4186-5dup,2009078,benign,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,,NM_007294.4(BRCA1):c.4484+39A>G,1697603,benign,,,,,9.57274e-05,0.000341759,0,Genuinely uncertain,Insufficient data,0,Genuinely uncertain,Insufficient data
+BRCA1,,NM_007294.4(BRCA1):c.4675+55A>G,1686624,benign,,,,,,0.000367831,0,Genuinely uncertain,Insufficient data,0,Genuinely uncertain,Insufficient data
+BRCA1,p.Leu218Val,c.652T>G,1684697,benign,4.675,T,P,0.648,,,3,Weakly leans pathogenic,PolyPhen-2: damaging; Absent from gnomAD,4,Leans pathogenic,PolyPhen-2: damaging; Absent from gnomAD; REVEL 0.65 (moderate)
+BRCA1,,NM_007294.4(BRCA1):c.81-3636C>T,1678799,benign,,,,,,0.000722733,0,Genuinely uncertain,Insufficient data,0,Genuinely uncertain,Insufficient data
+BRCA1,,NM_007294.4(BRCA1):c.81-3625del,1678798,benign,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,,NM_007294.4(BRCA1):c.548-12del,1648680,benign,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,,NM_007294.4(BRCA1):c.4097-11dup,1600771,benign,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,,NM_007294.4(BRCA1):c.4097-11del,1599899,benign,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,,NM_007294.4(BRCA1):c.*106C>T,1332042,benign,,,,,6.63193e-05,0.000190536,0,Genuinely uncertain,Insufficient data,0,Genuinely uncertain,Insufficient data
+BRCA1,,NM_007294.4(BRCA1):c.4987-195_4987-194insTT,1327189,benign,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,p.Ala221=,c.663A>G,1325668,benign,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,,NM_007294.4(BRCA1):c.4097-79A>G,1325659,benign,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
+BRCA1,,NM_007294.4(BRCA1):c.5277+42C>A,1325652,benign,,,,,7.55515e-05,3.94348e-05,2,Weakly leans pathogenic,Ultra-rare in gnomAD (AF=7.56e-05),2,Weakly leans pathogenic,Ultra-rare in gnomAD (AF=7.56e-05)
+BRCA1,,NM_007294.4(BRCA1):c.135-27T>A,1297482,benign,,,,,1.69119e-05,1.31434e-05,2,Weakly leans pathogenic,Ultra-rare in gnomAD (AF=1.69e-05),2,Weakly leans pathogenic,Ultra-rare in gnomAD (AF=1.69e-05)
+BRCA1,,NM_007294.4(BRCA1):c.4987-197_4987-196dup,1287895,benign,,,,,,,2,Weakly leans pathogenic,Absent from gnomAD,2,Weakly leans pathogenic,Absent from gnomAD
